@@ -1,0 +1,15 @@
+body {
+     margin: 0;
+     padding: 0;
+     background: #000000;
+}
+.content {
+     width: 80%;
+     height: auto;
+     margin: 0 auto;
+     position: relative;
+     z-index: 5;
+     background: #fff;
+     padding: 30px;
+     text-align: left;
+}
